@@ -6,3 +6,6 @@ Started this project, I believe I have the correct coding, using javascripts cal
 
 NOV 14, 2023 - YouTubeSkip002.exe
 Decided to use selenium after a professor told me the benefits of it over javascript coding. This version includes my test of opening up google.com and allows youtube page to load
+
+Nov 15, 2023
+Completed the feature to load Youtube Video and skip the video forward by 1 minute.
