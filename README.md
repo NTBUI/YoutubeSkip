@@ -1,5 +1,8 @@
 # YoutubeSkip for Chrome
 
+**Download Installer at this google drive link: https://drive.google.com/file/d/1DoT0-BVK70d2d8gNqabvHRW-1XVmBQ23/view?usp=drive_link**
+If you want to run the program manually and without the installer follow the steps below.
+
 Download all the files including the selenium chrome driver at : https://drive.google.com/file/d/1gDBky2scabnyclGXA3MzYea4cua62EDE/view?usp=drive_link
 Put the files into the same folder, run by clicking on "YouTubeSkip.exe"
 
