@@ -11,7 +11,7 @@ This is a program to add some playback features to your YouTube watching experie
 
 ***If you get an exception error, this is likely due to a slight mismatch in Chrome versions; if this occurs, just click 'continue'
 
-Nov 21,2023 - bug found
+Nov 21,2023 - Uploaded Bin folder
 Uploaded the entire Bin folder as well as a link to a google drive to download the Selenium Chrome Driver
 
 Nov 20, 2023 - YoutubeSkip006.exe
