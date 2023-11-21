@@ -1,4 +1,8 @@
 # YoutubeSkip for Chrome
+
+Download all the files including the selenium chrome driver at : https://drive.google.com/file/d/1gDBky2scabnyclGXA3MzYea4cua62EDE/view?usp=drive_link
+Put the files into the same folder, run by clicking on "YouTubeSkip.exe"
+
 This is a program to add some playback features to your YouTube watching experience on a desktop! Simple copy the url of your YouTube video that starts with "https://www.youtube.com/watch?" and load
 - able to skip forward or backward by a minute
 - able to skip forward or backward by chapters
