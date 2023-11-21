@@ -25,6 +25,7 @@ Decided to use selenium after a professor told me the benefits of it over javasc
 NOV 14, 2023 - YouTubeSkip.exe
 Started this project, I believe I have the correct coding, using javascripts calls to skip the video by a minute but ran into a major bug where the WinForms is behaving like it is it's own OS and does not have access to a browser.
 
+Image of what the app looks like and what it does
 ![image](https://github.com/NTBUI/YoutubeSkip-for-Chrome/assets/126556075/097685a7-ca0f-43c3-896b-10adb089ce47)
 
 
