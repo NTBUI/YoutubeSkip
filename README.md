@@ -21,3 +21,6 @@ Added the feature to skip Youtube videos by chapter
 
 Nov 20, 2023 - YoutubeSkip006.exe
 Added 10 seconds forward and backword skips
+
+Nov 21,2023 - bug found
+There is a bug causing ChromeDriver to not be built in thee .exe file
